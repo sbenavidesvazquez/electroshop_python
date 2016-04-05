@@ -1,0 +1,7 @@
+Inicio	Inicio-module.html
+Inicio.ventana	Inicio-module.html#ventana
+Inicio.principal	Inicio.principal-class.html
+Inicio.principal.compra	Inicio.principal-class.html#compra
+Inicio.principal.salto	Inicio.principal-class.html#salto
+Inicio.principal.cierre	Inicio.principal-class.html#cierre
+Inicio.principal.__init__	Inicio.principal-class.html#__init__
